@@ -1,0 +1,9 @@
+[submodule "components/MisideStartWallpaper"]
+	path = components/MisideStartWallpaper
+	url = https://github.com/TouMingQAQ/MisideStartWallpaper.git
+[submodule "components/Open-LLM-VTuber"]
+	path = components/Open-LLM-VTuber
+	url = https://github.com/Open-LLM-VTuber/Open-LLM-VTuber.git
+[submodule "components/OpenVoice"]
+	path = components/OpenVoice
+	url = https://github.com/myshell-ai/OpenVoice.git
